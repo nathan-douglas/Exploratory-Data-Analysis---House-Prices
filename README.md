@@ -1,5 +1,8 @@
 # Exploratory-Data-Analysis---House-Prices
 
+Project Link:
+https://nathandouglas98.wixsite.com/website/post/python-exploratory-data-analysis-house-prices-kaggle
+
 In this project, I perform exploratory data analysis and feature engineering in python on the house prices dataset available on Kaggle from a recent competition. 
 
 Aim:
