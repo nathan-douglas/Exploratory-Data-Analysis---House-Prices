@@ -1,7 +1,7 @@
-# Exploratory-Data-Analysis---House-Prices
+# Python House Prices EDA, feature engineering & Linear Regression (Kaggle)
 
 Project Link:
-https://nathandouglas98.wixsite.com/website/post/python-exploratory-data-analysis-house-prices-kaggle
+https://nathandouglas98.wixsite.com/website/blog
 
 In this project, I perform exploratory data analysis and feature engineering in python on the house prices dataset available on Kaggle from a recent competition. 
 
@@ -19,3 +19,6 @@ Exploratory Data Analysis
 Feature Engineering of Data 
 - missing values 
 - Date/time variables
+- Handling rare categorical features
+- Feature Scaling
+- Feature Selection
